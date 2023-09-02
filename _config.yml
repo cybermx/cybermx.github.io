@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "MSMC  Laboratory"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "Mathematics and Statistics Methodoligies for Cyber Risks"
+description              : &description "Cyber Risk Modeling"
 url                      : https://cybermx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cybermx/cybermx.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "MSMC"
   avatar           : "profile.png"
-  bio              : "Mathematics and Statistics Methodoligies for Cyber Risks"
+  bio              : "Cyber Risk and Insurance"
   location         :  
   employer         :
   pubmed           :  
