@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "MSMC  Laboratory"
+title                    : "MSMCI  Laboratory"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Cyber Risk Modeling"
