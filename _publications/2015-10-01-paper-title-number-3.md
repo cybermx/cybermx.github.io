@@ -1,15 +1,9 @@
 ---
-title: "Paper Title Number 3"
+title: "Cybersecurity insurance: Modeling and pricing"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+date: 2019-4-3
+venue: 'North American Actuarial Journal'
+paperurl: '[http://academicpages.github.io/files/paper3.pdf](https://www.tandfonline.com/doi/abs/10.1080/10920277.2019.1566076)'
 ---
-This paper is about the number 3. The number 4 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Cybersecurity risk has attracted considerable attention in recent decades. However, the modeling of cybersecurity risk is still in its infancy, mainly because of its unique characteristics. In this study, we develop a framework for modeling and pricing cybersecurity risk. The proposed model consists of three components: the epidemic model, loss function, and premium strategy. We study the dynamic upper bounds for the infection probabilities based on both Markov and non-Markov models. A simulation approach is proposed to compute the premium for cybersecurity risk for practical use. The effects of different infection distributions and dependence among infection processes on the losses are also studied.
