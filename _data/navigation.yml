@@ -1,8 +1,7 @@
 # main links links
 main:
-
    - title: "Me"
-    url: /me/ 
+    url: /me/
     
    - title: "Research"
     url: /research/ 
